@@ -95,3 +95,4 @@ void menuRestart(int xChoix, int yChoix, int aChoix, int bChoix, int cR, int cV,
     }
   }
 } 
+http://wiki.t-o-f.info/Processing/Tableau
